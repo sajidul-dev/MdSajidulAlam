@@ -4,7 +4,7 @@
 
 I'm a passionate MERN Stack programmer. I always try to explore my skill through build user friendly web application development. Contact me on mdsajidulalam1245@gmail.com
 
-Skills: REACT / JS / HTML / CSS/ BOOTSTRAP / TAILWIND CSS / FIREBASE / MONGODB
+Skills: REACT / NEXT JS / REST API / GRAPHQL / JS / HTML / CSS/ BOOTSTRAP / TAILWIND CSS / FIREBASE / MONGODB / NODE JS / EXPRESS JS
 
 - 🌱 I’m currently learning FULL STACK DEVELOPMENT 
 
