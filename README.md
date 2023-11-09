@@ -22,4 +22,4 @@ Skills: REACT / NEXT JS / REST API / GRAPHQL / JS / HTML / CSS/ BOOTSTRAP / TAIL
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sajidul-dev&theme=dracula)  
 
-![Profile views]([https://gpvc.arturio.dev/sajidul-dev](https://komarev.com/ghpvc/?username=your-github-usernam)https://komarev.com/ghpvc/?username=sajidul-dev)  
+![Profile views](https://komarev.com/ghpvc/?username=sajidul-dev)  
