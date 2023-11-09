@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sajid
 #### MERN Stack Developer
-![MERN Stack Developer](https://github.com/sajidul-dev/sajidul-dev/blob/main/MYBANNER.png)
+![MERN Stack Developer](https://github.com/sajidul-dev/MdSajidulAlam/blob/main/MYBANNER.png)
 
 I'm a passionate MERN Stack programmer. I always try to explore my skill through build user friendly web application development. Contact me on mdsajidulalam1245@gmail.com
 
