@@ -20,6 +20,6 @@ Skills: REACT / JS / HTML / CSS/ BOOTSTRAP / TAILWIND CSS / FIREBASE / MONGODB
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsajidulalam&show_icons=true)  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sajidul-dev)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sajidul-dev&theme=dracula)  
 
 ![Profile views](https://gpvc.arturio.dev/sajidul-dev)  
