@@ -18,7 +18,7 @@ Skills: REACT / NEXT JS / REST API / GRAPHQL / JS / HTML / CSS/ BOOTSTRAP / TAIL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajidul-dev)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsajidulalam&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajidul-dev&show_icons=true)  
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sajidul-dev&theme=dracula)  
 
