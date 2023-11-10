@@ -8,7 +8,7 @@ Skills: REACT / NEXT JS / REST API / GRAPHQL / JS / HTML / CSS/ BOOTSTRAP / TAIL
 
 - 🌱 I’m currently learning FULL STACK DEVELOPMENT 
 
-- 👨‍💻 All of my projects are available at [https://github.com/mdsajidulalam](https://github.com/sajidul-dev)
+- 👨‍💻 All of my projects are available at [https://github.com/sajidul-dev](https://github.com/sajidul-dev)
 
 - 📫 How to reach me: mdsajidulalam1245@gmail.com 
 
