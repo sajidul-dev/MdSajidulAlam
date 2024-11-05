@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Sajid
-#### MERN Stack Developer
+#### Software Engineer
 ![Software Engineer](https://github.com/sajidul-dev/MdSajidulAlam/blob/main/MYBANNER.png)
 
 I'm a passionate programmer and always try to explore my skills through build user-friendly web application development. Contact me on mdsajidulalam1245@gmail.com
