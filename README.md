@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Sajid
 #### MERN Stack Developer
-![MERN Stack Developer](https://github.com/sajidul-dev/MdSajidulAlam/blob/main/MYBANNER.png)
+![Software Engineer](https://github.com/sajidul-dev/MdSajidulAlam/blob/main/MYBANNER.png)
 
-I'm a passionate MERN Stack programmer. I always try to explore my skill through build user friendly web application development. Contact me on mdsajidulalam1245@gmail.com
+I'm a passionate programmer and always try to explore my skills through build user-friendly web application development. Contact me on mdsajidulalam1245@gmail.com
 
 Skills: REACT / NEXT JS / REST API / GRAPHQL / JS / HTML / CSS/ BOOTSTRAP / TAILWIND CSS / FIREBASE / MONGODB / NODE JS / EXPRESS JS
 
